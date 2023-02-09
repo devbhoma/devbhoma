@@ -3,9 +3,9 @@
 <a href="https://github.com/devbhoma">
   <img align="center" height="180px" style="margin-right:10px" src="https://github-readme-stats.vercel.app/api?username=devbhoma&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/devbhoma">
+<!-- <a href="https://github.com/devbhoma">
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbhoma&hide=php,java&layout=compact&theme=dark" />
-</a>
+</a> -->
 
 <!--
 **devbhoma/devbhoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
