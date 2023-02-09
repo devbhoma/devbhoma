@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<a href="https://github.com/rajuj6">
-  <img align="center" height="180px" style="margin-right:10px" src="https://github-readme-stats.vercel.app/api?username=rajuj6&count_private=true&show_icons=true&theme=dark" />
+<a href="https://github.com/devbhoma">
+  <img align="center" height="180px" style="margin-right:10px" src="https://github-readme-stats.vercel.app/api?username=devbhoma&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/rajuj6">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajuj6&hide=php,java&layout=compact&theme=dark" />
+<a href="https://github.com/devbhoma">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbhoma&hide=php,java&layout=compact&theme=dark" />
 </a>
 
 <!--
