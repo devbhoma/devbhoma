@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/devbhoma">
-  <img align="center" height="180px" style="margin-right:10px" src="https://github-readme-stats.vercel.app/api?username=devbhoma&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=devbhoma&count_private=true&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/devbhoma">
